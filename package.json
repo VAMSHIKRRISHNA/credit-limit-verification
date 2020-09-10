@@ -1,0 +1,15 @@
+{
+  "name": "credit-limit-verification",
+  "version": "1.0.0",
+  "description": "This tool calculates the combined utilisation at each entity and reports if breaches in that entity group.",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha **/*.test.js",
+    "start": "node server.js"
+  },
+  "author": "Vamshi Nandyala",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^7.1.1"
+  }
+}

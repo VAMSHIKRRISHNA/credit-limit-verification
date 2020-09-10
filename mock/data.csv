@@ -1,0 +1,3 @@
+entity,parent,limit,utilisation
+A,,100,0
+B,A,90,10
